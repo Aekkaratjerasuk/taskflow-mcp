@@ -2,6 +2,10 @@
 
 ![GitHub release](https://img.shields.io/github/v/release/Aekkaratjerasuk/taskflow-mcp?color=brightgreen&label=Latest%20Release&style=flat)
 
+<a href="https://glama.ai/mcp/servers/@Aekkaratjerasuk/taskflow-mcp">
+  <img width="380" height="200" src="https://glama.ai/mcp/servers/@Aekkaratjerasuk/taskflow-mcp/badge" alt="TaskFlow MCP server" />
+</a>
+
 Welcome to **TaskFlow MCP**, a task management Model Context Protocol (MCP) server designed to enhance AI assistants. This project helps break down user requests into manageable tasks, complete with subtasks, dependencies, and notes. It enforces a structured workflow with user approval steps, making task management simpler and more efficient.
 
 ## Table of Contents
